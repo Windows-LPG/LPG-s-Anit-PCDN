@@ -16,18 +16,20 @@ This tool is designed to detect and prevent malicious software/rogue application
 
 🛡️ 自动阻断 - 自动阻止被识别为恶意的P2P流量（还没做（ ）
 
-⚙️ 可配置规则 - 支持自定义规则和例外列表
+⚙️ 可配置规则 - 可以自行添加白名单，添加预设外的软件
 
 🚀 快速开始 / Quick Start
 项目已打包，可自行在发行版中选择下载直接运行
 如果是源代码版本，需要按照import自行安装对应依赖
 Python3：https://apps.microsoft.com/detail/9pnrbtzxmb4z?hl=zh-CN&gl=CN
+
 📁 项目结构 / Project Structure
-text
+
 LPG-s-Anit-PCDN/
 ├── main.py              # 主程序源码
 ├── LICENSE.md           # GPL v3许可证
 └── README.md            # 项目说明
+
 🤝 如何贡献 / Contributing
 欢迎提交Issue和Pull Request！以下是贡献方式：
 
@@ -57,11 +59,10 @@ This project is licensed under the terms of the GNU GPLv3 license.
 🙏 致谢 / Acknowledgments
 使用 Python 编写
 
-主要开发辅助：DeepSeek AI
+主要开发辅助：DeepSeek
 
-人工审核和修改：项目维护者
+人工审核和修改：WindowsLPH
 
-感谢所有贡献者和用户的支持！
 
 📬 联系 / Contact
 GitHub Issues: 问题反馈
