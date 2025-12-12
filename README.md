@@ -1,12 +1,10 @@
 # LPG-s-Anit-PCDN
 
-https://img.shields.io/github/stars/Windows-LPG/LPG-s-Anit-PCDN
+[![stars](https://img.shields.io/github/stars/Windows-LPG/LPG-s-Anit-PCDN)](https://github.com/Windows-LPG/LPG-s-Anit-PCDN/stargazers)
+[![License](https://img.shields.io/github/license/Windows-LPG/LPG-s-Anit-PCDN)](LICENSE)
+[![Python版本](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
 
-https://img.shields.io/github/license/Windows-LPG/LPG-s-Anit-PCDN
-
-https://img.shields.io/badge/python-3.x-blue.svg
-
-防止恶意软件窃取家庭宽带上传带宽 | Prevent Malware from Stealthily Using Broadband Upload Bandwidth
+### 防止恶意软件窃取家庭宽带上传带宽 | Prevent Malware from Stealthily Using Broadband Upload Bandwidth
 
 📖 简介 / Introduction
 这是一个用于检测和阻止恶意软件/流氓软件滥用家庭宽带上传带宽的工具。某些中国软件（如一些视频播放器、云盘、下载工具等）会在后台偷偷使用用户的宽带上传流量，参与P2P CDN网络，导致用户网络变慢、流量消耗增加。
