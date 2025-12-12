@@ -26,6 +26,7 @@ Python3：https://apps.microsoft.com/detail/9pnrbtzxmb4z?hl=zh-CN&gl=CN
 📁 项目结构 / Project Structure
 
 LPG-s-Anit-PCDN/
+
 ├── main.py              # 主程序源码
 ├── LICENSE.md           # GPL v3许可证
 └── README.md            # 项目说明
@@ -46,7 +47,6 @@ LPG-s-Anit-PCDN/
 
 This project is licensed under the terms of the GNU GPLv3 license.
 
-查看完整许可证 | View Full License
 
 🌟 Star历史 / Star History
 
@@ -57,11 +57,10 @@ This project is licensed under the terms of the GNU GPLv3 license.
 感谢所有送出star的用户！
 
 🙏 致谢 / Acknowledgments
-使用 Python 编写
 
 主要开发辅助：DeepSeek
 
-人工审核和修改：WindowsLPH
+人工审核和修改：WindowsLPG
 
 
 📬 联系 / Contact
