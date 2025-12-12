@@ -28,7 +28,9 @@ Python3：https://apps.microsoft.com/detail/9pnrbtzxmb4z?hl=zh-CN&gl=CN
 LPG-s-Anit-PCDN/
 
 ├── main.py              # 主程序源码
+
 ├── LICENSE.md           # GPL v3许可证
+
 └── README.md            # 项目说明
 
 🤝 如何贡献 / Contributing
