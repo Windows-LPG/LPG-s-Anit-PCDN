@@ -1,7 +1,7 @@
 # LPG-s-Anit-PCDN
-https://img.shields.io/github/stars/Windows-LPG/LPG-s-Anit-PCDN
-https://img.shields.io/github/license/Windows-LPG/LPG-s-Anit-PCDN
-https://img.shields.io/badge/python-3.x-blue.svg
+(https://img.shields.io/github/stars/Windows-LPG/LPG-s-Anit-PCDN)
+(https://img.shields.io/github/license/Windows-LPG/LPG-s-Anit-PCDN)
+(https://img.shields.io/badge/python-3.x-blue.svg)
 
 防止恶意软件窃取家庭宽带上传带宽 | Prevent Malware from Stealthily Using Broadband Upload Bandwidth
 
