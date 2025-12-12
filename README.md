@@ -1,7 +1,7 @@
-# LPG-s-Anit-PCDN
+# Anti-PCDN
 
-[![stars](https://img.shields.io/github/stars/Windows-LPG/LPG-s-Anit-PCDN)](https://github.com/Windows-LPG/LPG-s-Anit-PCDN/stargazers)
-[![License](https://img.shields.io/github/license/Windows-LPG/LPG-s-Anit-PCDN)](LICENSE)
+[![stars](https://img.shields.io/github/stars/Windows-LPG/Anti-PCDN)](https://github.com/Windows-LPG/Anti-PCDN/stargazers)
+[![License](https://img.shields.io/github/license/Windows-LPG/Anti-PCDN)](LICENSE)
 [![Python版本](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
 
 ### 防止恶意软件窃取家庭宽带上传带宽 | Prevent Malware from Stealthily Using Broadband Upload Bandwidth
@@ -55,7 +55,7 @@ This project is licensed under the terms of the GNU GPLv3 license.
 
 如果觉得这个项目有用，请给个 ⭐ Star 支持一下！
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Windows-LPG/LPG-s-Anit-PCDN&type=date&legend=top-left)](https://www.star-history.com/#Windows-LPG/LPG-s-Anit-PCDN&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=Windows-LPG/Anti-PCDN&type=date&legend=top-left)](https://www.star-history.com/#Windows-LPG/Anti-PCDN&type=date&legend=top-left)
 
 感谢所有送出star的用户！
 
@@ -69,7 +69,7 @@ This project is licensed under the terms of the GNU GPLv3 license.
 📬 联系 / Contact
 GitHub Issues: 问题反馈
 
-项目主页: LPG's Anti-PCDN
+项目主页: Anti-PCDN
 
 ⚠️ 免责声明 / Disclaimer
 本工具仅供学习和研究使用，请勿用于非法用途。使用本工具产生的任何后果由使用者自行承担。
